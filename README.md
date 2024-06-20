@@ -7,13 +7,20 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+- Git & source control
+### Fullstack
+- NextJS (Currently Learning)
+### Backend
 - PHP Laravel (API / Inertia / Blade)
 - ExpressJS
+- Django (Currently Learning)
+### Frontend
 - ReactJS
 - VueJS 
 - NodeJS
-- SQL, MSQL, MongoDB
 - Tailwind
-- Git & source control
-- NextJS (Currently Learning)
-- Django (Currently Learning)
+### Database
+- SQL
+- MSQL
+- MongoDB
+  
