@@ -59,14 +59,22 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chamoux&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamoux&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" height="170" alt="top langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamoux&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamoux&theme=default" alt="GitHub Profile Details" />
+</picture>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamoux&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamoux&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamoux&theme=default" height="170" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamoux&theme=tokyonight&utcOffset=2" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamoux&theme=default&utcOffset=2" height="170" alt="Productive Time" />
+</picture>
 
 </div>
+
 
 ---
 
