@@ -55,28 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamoux&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chamoux&theme=default" alt="GitHub Profile Details" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamoux&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chamoux&theme=default" height="170" alt="Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamoux&theme=tokyonight&utcOffset=2" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chamoux&theme=default&utcOffset=2" height="170" alt="Productive Time" />
-</picture>
-
-</div>
-
-
----
 
 ### 🤝 Let's Connect
 
