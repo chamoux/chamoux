@@ -5,8 +5,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=chamoux&label=Profile%20views&color=6C63FF&style=for-the-badge" alt="profile views" />
-
 </div>
 
 ---
