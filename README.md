@@ -12,7 +12,6 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Fullstack developer passionate about crafting clean, scalable web applications
-- 🌱 Currently diving deeper into **Next.js** and **Django**
 - 💬 Ask me about **Laravel, Vue, React, or anything web**
 - 📫 Reach me at **tonychamoun41@gmail.com**
 - 🌍 Based in **Lebanon**
